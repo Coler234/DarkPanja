@@ -1,5 +1,4 @@
 # DarkPanja
-<h1>Dark Panja!</h1>
 <p>Dark Panja is a dark theme made by, Panja/Coler234(Same User). Please leave comments or please fork in.</p>
 <h1>HTML</h1>
 <img src="https://cdn.pbrd.co/images/GwbDlvd.png" alt="HTML Syntax Example">
