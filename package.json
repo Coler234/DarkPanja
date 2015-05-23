@@ -1,10 +1,10 @@
 {
-    "name": “FletcherHenneman.DarkPanja”,
-    "title": “DarkPanja”,
-    "description": “A Dark Theme By Panja“,
-    "homepage": "https://ssbrochure.cf#donthavegithublol”,
+    "name": "fletcherhenneman.darkpanja",
+    "title": "DarkPanja",
+    "description": "A Dark Theme By Panja",
+    "homepage": "https://github.com/Coler234/DarkPanja",
     "version": "1.0.0",
-    "author": “Fletcher Henneman <fhenneman@comcast.net> (http://ssbrochure.cf)”,
+    "author": "Fletcher Henneman <fhenneman@comcast.net> (https://github.com/Coler234/DarkPanja)",
     "license": "MIT",
     "theme": {
         "file": "theme.less",
